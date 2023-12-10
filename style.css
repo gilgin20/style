@@ -1,0 +1,8 @@
+body{
+background-color: lightyellow;　←背景色を「lightyellow」にする
+}
+.title{
+font-weight: bold;　←文字の太さを太く
+text-align: center;　←文字列を中央揃いに
+color: blue;　←文字の色を青に
+}
